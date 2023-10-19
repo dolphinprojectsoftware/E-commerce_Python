@@ -99,8 +99,11 @@ poetry.lock
 *.temp
 .tmp
 
+
 # Caches and local data
 .cache/
+__pycache__/
+.pyc
 
 # User-specific files
 *_history
